@@ -3,7 +3,7 @@
 背景差分画像の抽出を行うプログラム
 
 ### 実行例
-諸事情でで元動画は割愛
+諸事情でで元動画は割愛  
 ![output](https://github.com/HayatoKTYM/cv-short-projrct/blob/master/back_sub/output/output.gif)
 
 ### 実行ファイル
