@@ -8,4 +8,4 @@
 
 ### 実行ファイル
 - run.py ... 実行ファイル
-- convert_gif.py ... run.pyで得た動画をgifに変換
+- convert_gif.sh ... run.pyで得た動画をgifに変換
